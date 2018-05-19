@@ -1,4 +1,3 @@
 this is test file
 it is created to create conflict
-i am sad learning git today
-i will continue learning git 
+i am not happy today so i am sad
