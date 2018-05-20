@@ -4,7 +4,7 @@
 And as **imagination** bodies forth,
 The forms of things *unknown*, the poet's pen,
 Turns them to shapes and gives to airy nothing,
- A local *habitation* and a **name**.
+A local *habitation* and a **name**.
 
 -This is
 -an unordered
@@ -14,7 +14,7 @@ Turns them to shapes and gives to airy nothing,
 2. an unordered
 3. list
 
-Here is 'some code' i the middle of sentence.
+Here is `some code` in the middle of sentence.
 
 ```
 This is 
