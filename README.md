@@ -1,30 +1,24 @@
-# This is a lagre heading
-## This a small heading
+# Naznin Shaikh
+## Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet's pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I live in San Francisco city, in the state of California in the United States
+of America.
 
--This is
--an unordered
--list
+##Reading
 
-1. This is
-2. an unordered
-3. list
+Three of my favorite books are:
+- *Mindstorms* by Seymour Papert
+- *Welcome to the Monkey House* by Kurt Vonnegut
+- *Persepolis* by Marjane Satrapi
 
-Here is `some code` in the middle of sentence.
+#Food
 
-```
-This is 
-a block
-of code
-```
+Last night i dreamt about eating in these restaurants:
 
-Here is how you make [a link](https://www.wikipedia.org/).
+1. Linger in Denver.
+2. Azura in Jerusalem.
+3. Gemma in New York City.	
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2
-/karl-moustache.jpg)
+#Contact
 
-nano README.md
+The best way to get in touch with me is on [Twitter](https://twitter.com/xyz).
