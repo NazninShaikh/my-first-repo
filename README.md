@@ -1,4 +1,4 @@
-# This is a lagre heading
+# This is a large heading
 ## This a small heading
 
 And as **imagination** bodies forth,
